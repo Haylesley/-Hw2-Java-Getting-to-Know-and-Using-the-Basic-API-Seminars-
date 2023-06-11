@@ -1,0 +1,12 @@
+июн. 11, 2023 1:53:40 PM SecondTask main
+INFO: Начало
+июн. 11, 2023 1:53:47 PM SecondTask main
+INFO: Массив создан[36, 456, 56, 3543, 57]
+июн. 11, 2023 1:53:47 PM SecondTask Bubble
+INFO: [36, 56, 456, 3543, 57]
+июн. 11, 2023 1:53:47 PM SecondTask Bubble
+INFO: [36, 56, 456, 57, 3543]
+июн. 11, 2023 1:53:47 PM SecondTask Bubble
+INFO: [36, 56, 57, 456, 3543]
+июн. 11, 2023 1:53:47 PM SecondTask main
+INFO: Массив отсортирован
