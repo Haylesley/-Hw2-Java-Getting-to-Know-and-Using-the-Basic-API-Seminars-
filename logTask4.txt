@@ -1,0 +1,10 @@
+июн. 11, 2023 3:53:15 PM FourthTask main
+INFO: Начало
+июн. 11, 2023 3:53:17 PM FourthTask main
+INFO: Пользователь ввёл число: 5.0
+июн. 11, 2023 3:53:22 PM FourthTask main
+INFO: Пользователь ввёл знак: *
+июн. 11, 2023 3:53:24 PM FourthTask main
+INFO: Пользователь ввёл число: 8.0
+июн. 11, 2023 3:53:24 PM FourthTask main
+INFO: Результат: 40.0
